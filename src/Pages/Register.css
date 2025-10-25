@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+#container-register{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+}
+#register-form{
+    width: 400px;
+    height: 550px;
+    border-radius: 10px;
+    overflow-y: hidden;
+    background-color: white;
+}
+#register-img{
+    width: 100%;
+    height: 23%;
+    overflow-y: hidden;
+    background-color: white;
+}
+#register-logo{
+    width: 200px;
+    height: 200px;
+    margin-top: -25px;
+    margin-left: 92px;
+}
+#register-data{
+    width: 100%;
+    height: 78%;
+    background-color: white;
+}
+#register-title{
+    text-align: center;
+    padding-top: 8px;
+    margin-bottom: -10px;
+}
+.register-input{
+    height: 40px;
+    width: 268px;
+    padding-left: 5px;
+    font-size: 16px;
+    margin-left: 68px;
+    margin-top: 10px;
+}
+#register-btn{
+    height: 40px;
+    width: 268px;
+    font-size: 16px;
+    margin-left: 68px;
+    margin-top: 25px;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    background-color: rgb(87, 87, 232);
+}
+#containerp-login{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 18px;
+}
+#register-p-link{
+    color: rgb(87, 87, 232);
+}
