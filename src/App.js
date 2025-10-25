@@ -5,6 +5,8 @@ import Register from './Pages/Register'
 import Homepage from './Home Page/Homepage'
 import Dashboard from './User page/Dashboard'
 const App = () => {
+  console.log("hello world");
+  
   return (
     <div>
         <BrowserRouter>
